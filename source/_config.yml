@@ -36,7 +36,7 @@ colors:
   redish:    '#e02000'
   orange:    '#fab125'
   salmon:    '#ed8050'
-  turquoise: '#0fbfcf'
+  turquoise: '#10c0e0'
 
 kramdown:
   auto_ids:  false
