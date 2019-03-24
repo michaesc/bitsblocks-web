@@ -10,8 +10,8 @@ title: Bits and Blocks
 email: staff@bitsblocks.org
 description: > # this means to ignore newlines until "baseurl:"
   At Bits and Blocks we showcase networks built on blockchain technology.
-  Applications controlling assets with distributed transactions are examined.
-  Mandarin speakers and English speakers are welcome to experience a free
+  Applications controlling assets with distributed transactions are illustrated.
+  Mandarin speakers and English speakers alike are welcome to complete a free
   blockchain workshop for beginners in the Bits and Blocks village.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.bitsblocks.org" # the base hostname & protocol for your site
