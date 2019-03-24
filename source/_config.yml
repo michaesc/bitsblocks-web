@@ -23,7 +23,7 @@ description: > # this means to ignore newlines until "baseurl:"
   steps. Come to our <strong>blockchain party</strong>, where Bits and
   Blocks hosts a social meeting, movie film, and refreshments.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.bitsblocks.org" # the base hostname & protocol for your site
+url: "https://www.bitsblocks.org/" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 google_analytics_key:
