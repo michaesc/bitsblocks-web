@@ -7,37 +7,16 @@
 
 # Site settings
 title: Bits and Blocks
-email: staff@bitsblocks.org
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   At Bits and Blocks we showcase networks built on blockchain technology.
   Applications controlling assets with distributed transactions are examined.
   Mandarin speakers and English speakers are welcome to experience a free
   blockchain workshop for beginners in the Bits and Blocks village.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.bitsblocks.org" # the base hostname & protocol for your site
-twitter_username:
-github_username:
-google_analytics_key:
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
-permalink: /:title  # disables post output
 markdown: kramdown
-
-# Template site wide CSS colors
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  grey:      '#a0a0b0'
-  blue:      '#49a7e9'
-  leaf:      '#20a020'
-  green:     '#80e040'
-  purple:    '#c869bf'
-  seacol:    '#486a89'
-  redish:    '#e02000'
-  orange:    '#fab125'
-  salmon:    '#ed8050'
-  turquoise: '#10c0e0'
-
-kramdown:
-  auto_ids:  false
-
