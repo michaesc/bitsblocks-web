@@ -11,8 +11,17 @@ email: staff@bitsblocks.org
 description: > # this means to ignore newlines until "baseurl:"
   At Bits and Blocks we showcase networks built on blockchain technology.
   Applications controlling assets with distributed transactions are illustrated.
-  Mandarin speakers and English speakers alike are welcome to complete a free
-  blockchain workshop for beginners in the Bits and Blocks village.
+  Mandarin speakers and English speakers are welcome to complete a <strong>free
+  blockchain workshop</strong> for beginners in the Bits and Blocks village.
+  <br /><br />
+  For advanced hackers, Bits and Blocks features detailed guidance on the
+  <strong>Schnorr signature algorithm</strong>, the <strong>cryptographic
+  Merkle tree</strong>, and <strong>confidential transactions.</strong>
+  <br /><br />
+  <strong>Social games and fun</strong> include our blockchain challenge
+  awards participants according to level reached in a gamified guide of
+  steps. Come to our <strong>blockchain party</strong>, where Bits and
+  Blocks hosts a social meeting, movie film, and refreshments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.bitsblocks.org" # the base hostname & protocol for your site
 twitter_username:
@@ -28,15 +37,14 @@ colors:
   black:     '#111111'
   white:     '#f8f8f8'
   grey:      '#a0a0b0'
-  blue:      '#49a7e9'
-  leaf:      '#20a020'
-  green:     '#80e040'
-  purple:    '#c869bf'
+  blue:      '#4080b0'
+  green:     '#40a020'
+  purple:    '#a02080'
   seacol:    '#486a89'
   redish:    '#e02000'
-  orange:    '#fab125'
+  orange:    '#d08000'
   salmon:    '#ed8050'
-  turquoise: '#10c0e0'
+  turquoise: '#10a0d0'
 
 kramdown:
   auto_ids:  false
