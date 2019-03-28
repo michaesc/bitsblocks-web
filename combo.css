@@ -528,6 +528,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-contact { border-color: #40a020; }
+  #contact { background-color: #40a020 !important; color: #f8f8f8; }
+  #contact a { color: #f8f8f8; }
+  #contact .sectiondivider { color: #40a020; }
+
+  
+  
+  
   nav .p-staff { border-color: #a0a0b0; }
   #staff { background-color: #a0a0b0 !important; color: #f8f8f8; }
   #staff a { color: #f8f8f8; }
@@ -580,14 +588,6 @@ html { box-sizing: border-box; }
   #submit { background-color: #a02080 !important; color: #f8f8f8; }
   #submit a { color: #f8f8f8; }
   #submit .sectiondivider { color: #a02080; }
-
-  
-  
-  
-  nav .p-contact { border-color: #40a020; }
-  #contact { background-color: #40a020 !important; color: #f8f8f8; }
-  #contact a { color: #f8f8f8; }
-  #contact .sectiondivider { color: #40a020; }
 
   
   
